@@ -1,6 +1,6 @@
 # HuaweiImageClusteringDemo
 
-##Implementation Summary
+## Implementation Summary
 
 This image clustering demo was created without using any GMS (Google Mobile Service) dependencies. The purpose of this demo is to demonstrate usage of the Huawei Map Kit, not a proper clustering algorithm. 
 
