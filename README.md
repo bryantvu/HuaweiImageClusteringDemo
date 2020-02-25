@@ -1,4 +1,4 @@
-# HuaweiImageClusteringDemo
+# Huawei Image Clustering Demo
 
 ## Implementation Summary
 
